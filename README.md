@@ -5,10 +5,10 @@ UnityでソフトシャドウをVSMという手法を使用して作る勉強を
 この記事をベースに
 
 
-<img width="809" height="680" alt="image" src="https://github.com/user-attachments/assets/7e4eb390-b889-4537-9eb7-015e99ba7ed7" />
+<img width="809" height="680" alt="image" src="https://github.com/user-attachments/assets/7e4eb390-b889-4537-9eb7-015e99ba7ed7" /><br>
 [Variance Shadow Maps](https://asura.iaigiri.com/XNA_GS/xna33.html)この記事を参考にVSMを実装した。
 
-<img width="1091" height="698" alt="image" src="https://github.com/user-attachments/assets/e39bc4f2-9ae6-4b0d-a375-65e037e25196" />
+<img width="1091" height="698" alt="image" src="https://github.com/user-attachments/assets/e39bc4f2-9ae6-4b0d-a375-65e037e25196" /><br>
 でも、オブジェクトが埋まると影の位置がおかしくなる。
 
 ```C#  
