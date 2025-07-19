@@ -38,6 +38,5 @@ half4 frag (v2f i) : SV_Target
     float2 moments = float2(depth, depth * depth);
 
     return float4(moments, 0.0, 1.0);
-    // return 0;
 }
 #endif
