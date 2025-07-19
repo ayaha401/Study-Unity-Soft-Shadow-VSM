@@ -11,6 +11,8 @@ UnityでソフトシャドウをVSMという手法を使用して作る勉強を
 <img width="1091" height="698" alt="image" src="https://github.com/user-attachments/assets/e39bc4f2-9ae6-4b0d-a375-65e037e25196" /><br>
 でも、オブジェクトが埋まると影の位置がおかしくなる。
 
+# 実装の説明
+
 ```C#  
 characterDepthTexture ??= rtHandleSystem.Alloc(
 shadowMapWidth,
